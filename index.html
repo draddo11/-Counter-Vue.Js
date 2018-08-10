@@ -4,7 +4,7 @@
 <title> Vue Tuts</title>
 <script src="https://unpkg.com/vue"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>*/
-<link rel='stylesheet' href='http://davidtkatz.com/public_css/vue.css'>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
 
 <style>
@@ -38,7 +38,7 @@ template:
 <div>
   <li id ='header'>COUNTER : Click To Increase Count </li>
 <div>count:{{this.count}} </div>
-<div class="vue-btn" @click ='increment'>Increment by {{this.addNum}}</div>
+<div class="btn btn-primary" @click ='increment'>Increment by {{this.addNum}}</div>
 </div>
 `,
   props:{
