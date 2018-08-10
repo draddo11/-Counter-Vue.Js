@@ -1,2 +1,2 @@
-# -Counter-Vue.Js
+# Counter-Vue.Js
 A Vue.js  Counter
