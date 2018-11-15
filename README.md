@@ -1,6 +1,6 @@
 # Counter-Vue.Js
-A Vue.js  Counter
-which demonstrates the use of a components
+A simple  Vue.js2  Counter
+
 
 
 # GH-Pages :
